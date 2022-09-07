@@ -1,0 +1,99 @@
+[
+  {
+    "precio": 100, 
+    "id": 1,
+    "title": "Computadora",
+    "url": "https://picsum.photos/id/0/600"
+  },
+
+  {
+    "precio": 200, 
+    "id": 2,
+    "title": "Computadora dos",
+    "url": "https://picsum.photos/id/20/600"
+  },
+
+  {
+    "precio": 100, 
+    "id": 3,
+    "title": "Computadora tres",
+    "url": "https://picsum.photos/id/10/600"
+  },
+
+  {
+    "precio": 100, 
+    "id": 4,
+    "title": "Computadora cuatro",
+    "url": "https://picsum.photos/id/3/600"
+  },
+
+  {
+    "precio": 100, 
+    "id": 5,
+    "title": "Computadora cinco",
+    "url": "https://picsum.photos/id/4/600"
+  },
+
+  {
+    "precio": 100, 
+    "id": 6,
+    "title": "Computadora seis",
+    "url": "https://picsum.photos/id/6/600"
+  },
+
+  {
+    "precio": 100, 
+    "id": 7,
+    "title": "Computadora siete",
+    "url": "https://picsum.photos/id/7/600"
+  },
+
+  {
+    "precio": 100, 
+    "id": 8,
+    "title": "Computadora ocho",
+    "url": "https://picsum.photos/id/8/600"
+  },
+
+  {
+    "precio": 100, 
+    "id": 9,
+    "title": "Computadora nueve",
+    "url": "https://picsum.photos/id/9/600"
+  },
+
+  {
+    "precio": 100, 
+    "id": 10,
+    "title": "Computadora diez",
+    "url": "https://picsum.photos/id/11/600"
+  },
+
+  {
+    "precio": 100, 
+    "id": 11,
+    "title": "Computadora once",
+    "url": "https://picsum.photos/id/12/600"
+  },
+
+  {
+    "precio": 100, 
+    "id": 12,
+    "title": "Computadora doce",
+    "url": "https://picsum.photos/id/13/600"
+  },
+
+  {
+    "precio": 100, 
+    "id": 13,
+    "title": "Computadora trece",
+    "url": "https://picsum.photos/id/14/600"
+  },
+
+  {
+    "precio": 100, 
+    "id": 14,
+    "title": "Computadora catorce",
+    "url": "https://picsum.photos/id/15/600"
+  }
+]
